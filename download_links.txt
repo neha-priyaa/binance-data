@@ -1,0 +1,11 @@
+https://data.binance.vision/data/spot/monthly/klines/BTCUSDT/5m/BTCUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/ETHUSDT/5m/ETHUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/BNBUSDT/5m/BNBUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/SOLUSDT/5m/SOLUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/XRPUSDT/5m/XRPUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/ADAUSDT/5m/ADAUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/DOGEUSDT/5m/DOGEUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/AVAXUSDT/5m/AVAXUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/MATICUSDT/5m/MATICUSDT-5m-2025-01.zip
+https://data.binance.vision/data/spot/monthly/klines/DOTUSDT/5m/DOTUSDT-5m-2025-01.zip
+
