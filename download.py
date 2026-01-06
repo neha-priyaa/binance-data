@@ -1,8 +1,5 @@
 # download.py
-<<<<<<< HEAD
-=======
 from fetch_pairs import fetch_usdt_pairs
->>>>>>> 380b671 (Use auto-fetched Binance pairs in downloader)
 
 import os
 import requests
@@ -72,16 +69,7 @@ def download_data(symbols, interval, start_year=2025, end_year=2025):
 # -------------------------
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    pairs = [
-        "BTCUSDT",
-        "ETHUSDT",
-        "BNBUSDT"
-    ]
-
-=======
     pairs = fetch_usdt_pairs()[:10]   
->>>>>>> 380b671 (Use auto-fetched Binance pairs in downloader)
     download_data(
         symbols=pairs,
         interval="1h",
